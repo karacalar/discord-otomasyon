@@ -1,0 +1,13 @@
+{
+  "bot_token": "YOUR_DISCORD_BOT_TOKEN",
+  "prefix": "!",
+  "dashboard_port": 5000,
+  "dashboard_host": "0.0.0.0",
+  "secret_key": "change-me",
+  "database_url": "sqlite:///database/bot.db",
+  "discord_client_id": "YOUR_CLIENT_ID",
+  "discord_client_secret": "YOUR_CLIENT_SECRET",
+  "discord_redirect_uri": "http://localhost:5000/oauth/callback",
+  "embed_colors": {"primary": 5865, "success": 5763719, "error": 15548997, "warning": 16776960},
+  "owner_ids": []
+}
